@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
